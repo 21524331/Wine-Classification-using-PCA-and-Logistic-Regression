@@ -1,5 +1,6 @@
 # Wine-Classification-using-PCA-and-Logistic-Regression
 This repository contains a Python script for classifying wine types using Principal Component Analysis (PCA) and Logistic Regression. The script performs the following steps:
+
 1 Import Libraries: Import necessary libraries for data manipulation, visualization, and machine learning.
 
 2 Load Dataset: Load the wine dataset into a pandas DataFrame.
